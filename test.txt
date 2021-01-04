@@ -1,0 +1,2 @@
+{ "stars": [ { "name": "Faye", "address": "Beijing" }, { "name": "andy", "address": "Hong Kong" }, { "name": "eddie", "address": "Taiwan" } ]
+}
